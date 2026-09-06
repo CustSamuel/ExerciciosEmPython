@@ -1,0 +1,52 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyM6CtYT6UmOBUthk3ri/+QS"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "num = int(input('Insira um número: '))\n",
+        "\n",
+        "ant = num - 1\n",
+        "suc = num + 1\n",
+        "\n",
+        "print('Número escolhido: ' , num)\n",
+        "print('Antecessor: ', ant)\n",
+        "print('Sucessor: ', suc)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "XqiGWH_J6x6Y",
+        "outputId": "76447cd9-1c94-4474-eefb-de40d400194a"
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Insira um número: 9\n",
+            "Número escolhido:  9\n",
+            "Antecessor:  8\n",
+            "Sucessor:  10\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
