@@ -4,7 +4,8 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyM6CtYT6UmOBUthk3ri/+QS"
+      "authorship_tag": "ABX9TyM6CtYT6UmOBUthk3ri/+QS",
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -15,6 +16,16 @@
     }
   },
   "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/CustSamuel/ExerciciosEmPython/blob/main/AntecessorESucessor\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
     {
       "cell_type": "code",
       "source": [
@@ -28,25 +39,10 @@
         "print('Sucessor: ', suc)"
       ],
       "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "XqiGWH_J6x6Y",
-        "outputId": "76447cd9-1c94-4474-eefb-de40d400194a"
+        "id": "XqiGWH_J6x6Y"
       },
-      "execution_count": 5,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Insira um número: 9\n",
-            "Número escolhido:  9\n",
-            "Antecessor:  8\n",
-            "Sucessor:  10\n"
-          ]
-        }
-      ]
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
