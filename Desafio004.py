@@ -1,0 +1,5 @@
+y = input('Digite algo: ')
+print('{} é alfanumérico?: {}'.format(y, y.isalnum()))
+print('{} é numérico?: {}'.format(y, y.isnumeric()))
+print('{} é uma palavra ou letra?: {}'.format(y, y.isalpha()))
+print('{} é um número decimal?: {}'.format(y, y.isdecimal()))
