@@ -28,10 +28,25 @@
         "print('Sucessor: ', suc)"
       ],
       "metadata": {
-        "id": "XqiGWH_J6x6Y"
+        "id": "XqiGWH_J6x6Y",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "86740b70-cc27-4a48-d1df-4d15e9d5857c"
       },
       "execution_count": null,
-      "outputs": []
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Insira um número: 8\n",
+            "Número escolhido:  8\n",
+            "Antecessor:  7\n",
+            "Sucessor:  9\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -54,7 +69,7 @@
         "id": "LE_6DaTO_X9Z",
         "outputId": "490d8964-e6e9-4548-b3e5-8e825db755dd"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -88,7 +103,7 @@
         "id": "KNLAA0KUAKdx",
         "outputId": "91e344b4-c9b2-411f-ea41-982cbdf19f01"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -122,7 +137,7 @@
         "id": "LJUe3Xa-BS7U",
         "outputId": "148f6638-9010-44e7-94ef-df6da859084e"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -155,10 +170,33 @@
         "print(num * 10)"
       ],
       "metadata": {
-        "id": "38Lx8VEKCR86"
+        "id": "38Lx8VEKCR86",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "fe49916a-cdd3-4a89-9def-0da25cccb622"
       },
       "execution_count": null,
-      "outputs": []
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Tabuada do número X\n",
+            "Insira um número inteiro: 9\n",
+            "9\n",
+            "18\n",
+            "27\n",
+            "36\n",
+            "45\n",
+            "54\n",
+            "63\n",
+            "72\n",
+            "81\n",
+            "90\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -173,10 +211,24 @@
         "print('Vc pode comprar: ', dolares , ' dólares!')"
       ],
       "metadata": {
-        "id": "NbdvsYUCCuF-"
+        "id": "NbdvsYUCCuF-",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "08eadf22-1a9f-420f-f76b-9e8586fe4c00"
       },
       "execution_count": null,
-      "outputs": []
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Qts dólares vc pode comprar?\n",
+            "Insira a quantidade em reais: 39\n",
+            "Vc pode comprar:  11.0  dólares!\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -198,7 +250,7 @@
         "id": "hZtPP9wzDl_c",
         "outputId": "d89e6327-d769-47f2-fb2f-ae518a374ee6"
       },
-      "execution_count": 23,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -232,7 +284,7 @@
         "id": "T5xz0zu8EALI",
         "outputId": "be98bae7-d21b-4612-89e8-5c3d39dad523"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -259,10 +311,24 @@
         "print('Valor final: ', salario_final)"
       ],
       "metadata": {
-        "id": "DtZu1Z1OEUAv"
+        "id": "DtZu1Z1OEUAv",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "553c4423-3f55-4d65-da81-4d8371b931b1"
       },
       "execution_count": null,
-      "outputs": []
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Aumento de salário de 15%\n",
+            "Insira o valor do salário: 2500\n",
+            "Valor final:  2875.0\n"
+          ]
+        }
+      ]
     }
   ]
 }
